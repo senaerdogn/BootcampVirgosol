@@ -10,6 +10,7 @@ public class Task21 {
 
         cities.removeIf(n -> n.startsWith("İ"));
         System.out.println(cities);
+
     }
     }
 
